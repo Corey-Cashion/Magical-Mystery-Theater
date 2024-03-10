@@ -1,1 +1,2 @@
-Simple javascript excersize to demonstrate basic skills and understanding
+// Simple program built to demonstrate JS if statements / loops <br>
+// Input Firebse URL here
